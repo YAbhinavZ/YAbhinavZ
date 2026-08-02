@@ -1,8 +1,13 @@
 # 💫 Hi 👋, I'm Abhinav Sharma
 
-### 🚀 Full Stack Developer | MERN Stack  
+### Full Stack Developer | MERN Stack | AI Enthusiast
 
-I'm a Computer Science undergraduate passionate about building scalable web applications, exploring AI-powered solutions, and exploring AI technologies.
+I'm a Computer Science undergraduate passionate about building scalable web applications, exploring AI-powered solutions, and learning modern cloud technologies. I enjoy solving real-world problems through code and continuously improving my development skills.
+
+* 🔭 **Currently Working On:** Moodora
+* 🌱 **Currently Learning:** Docker, AWS, System Design
+* 💬 **Ask Me About:** Java, JavaScript, React, Node.js, Express.js, MongoDB, SQL
+* ⚡ **Fun Fact:** I enjoy building projects and learning new technologies.
 
 ---
 
