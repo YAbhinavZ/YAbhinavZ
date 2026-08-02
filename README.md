@@ -21,7 +21,7 @@ I'm a Computer Science undergraduate passionate about building scalable web appl
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
-[![](https://komarev.com/ghpvc/?username=YAbhinavZ&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
