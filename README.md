@@ -7,7 +7,7 @@
 
 I'm a Computer Science undergraduate passionate about building scalable web applications, exploring AI-powered solutions, and learning modern cloud technologies. I enjoy solving real-world problems through code and continuously improving my development skills.
 
-* 🔭 **Currently Working On:** Moodora
+* 🔭 **Currently Working On:** Faculty Hiring System
 * 🌱 **Currently Learning:** Docker, AWS, System Design
 * 💬 **Ask Me About:** Java, JavaScript, React, Node.js, Express.js, MongoDB, SQL
 * ⚡ **Fun Fact:** I enjoy building projects and learning new technologies.
